@@ -1,0 +1,28 @@
+body{
+text-align: center;
+background: linear-gradient(blue,purple);
+}
+.line{
+background-color:floralwhite;
+height:6px;
+width:150px;
+margin: auto;
+}
+img{
+height:500px;
+width:350px;
+margin-left: 50px;
+margin-right: 50px;
+margin-top: 50px;
+transition: transform 0.2s;
+}
+img:hover{
+transform: scale(1.1);
+}
+h1{
+color:floralwhite;
+}
+h2{
+color:floralwhite;
+}
+
